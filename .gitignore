@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+__pycache__/Dado.cpython-37.pyc
+/__pycache__/Base.cpython-36.pyc
+/__pycache__/CasillaEspecial.cpython-36.pyc
+/__pycache__/IngresarCentro.cpython-36.pyc
+/__pycache__/Centro.cpython-36.pyc
+/__pycache__/Casilla.cpython-36.pyc
+
+__pycache__/*.pyc
+*.json

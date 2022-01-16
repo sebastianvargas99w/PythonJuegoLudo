@@ -1,0 +1,9 @@
+Se juega con un dado de seis caras y el objetivo es trasladar las 4 fichas desde la base o partida a la casa o meta. 
+Tanto los turnos de los jugadores como el movimiento de las fichas es en el sentido del reloj. 
+Es obligatorio jugar lo indicado por el dado. 
+A cada jugador en su turno, le corresponde lanzar el dado y mover sus fichas si le corresponde tocando la ficha que quiera mover.
+El seis del dado se utiliza para sacar fichas de la base y se obtiene un turno extra (lanza de nuevo el dado. 
+Las fichas se mueven seg�n el puntaje del dado.  
+Un jugador puede capturar (expulsar y poner en la base) las fichas de un contrincante, si en su turno ocupa la casilla de este �ltimo. 
+Ningun jugador puede tener mas de una ficha en cada casilla, si en un turno se saca un n�mero que da como destino una casilla con una ficha propia, no se puede mover y se pierde el turno.
+Cuando una ficha llega a la vertical de color est� seguro, es decir ning�n contrincante puede capturarla. Sin embargo, debe llegar a la casa o meta con la cuenta exacta, de lo contrario tiene que moverse dentro de la vertical de color seg�n lo indicado por el dado.
